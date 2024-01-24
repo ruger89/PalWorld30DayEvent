@@ -15,3 +15,7 @@ You do need to currently use a converter such as: https://gist.github.com/cheahj
 ## Future Plans
 
 - Make single script to do the conversion, time change, convert.
+
+## Buy Me A Coffee
+- If you want to buy me a coffe it's much appreciated. Coffee keeps the gears moving, current brand of choice: Ninas Imported from Sierra Leone! 
+- https://www.buymeacoffee.com/ruger
